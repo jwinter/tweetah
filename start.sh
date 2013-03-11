@@ -1,4 +1,4 @@
 #!/bin/sh
-say -v zarvox "meta x n repl"
+say -v zarvox "Open core.clj and Meta X NREPL jack in"
 lein deps
-lein repl
+
